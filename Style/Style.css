@@ -1,0 +1,149 @@
+.main{
+  background-color:white;
+  font-family:Montserrat;
+}
+.headers{
+  color: Black;
+  font-family:Montserrat;
+  margin:0px;
+}
+.logo{
+  width:100px;
+  height:100px;
+}
+.sect{
+  color:black;
+  background: white;
+  margin:0px;
+}
+#hea{
+  margin-top: -18px;
+}
+.bar li{
+  display:inline;
+  float: right;
+  font-family:Montserrat;
+  padding: 3px;
+}
+
+.bar a{
+  text-decoration:none;
+  font-family:Montserrat;
+  font-size: 15px;
+}
+.par{
+   margin-left: 250px;
+}
+.par1{
+   margin-left: 270px;
+   margin-top: -20px;
+
+}
+.images{
+  width:75px;
+  height:75px;
+  text-align:center;
+  padding-left: 20px;
+}
+.FrontPage{
+  background-image: url(../photos/FrontPage.jpg);
+  background-repeat: no-repeat;
+  background-size:960px;
+  height: 500px;
+  position: relative;
+}
+.FrontPage h2{
+  text-align: center;
+  margin-top: 20px;
+}
+
+#head1{
+  margin-top: 150px;
+  text-align: center;
+}
+.Form1{
+  border-style: solid;
+  border-width: 1px 1px;
+  border-spacing: 10px;
+}
+.Paragraph_Statistics{
+  margin: 50px;
+}
+.part1 p, .part2 p, .part3 p{
+  font-family: Montserrat;
+  font-size: 15px;
+
+}
+.Image{
+  height: 200px;
+}
+.adjust{
+  padding-bottom: 10px;
+  padding-top:30px;
+  padding-right: 20px;
+  width:200px;
+  height:150px;
+}
+.prims{
+  font-family:Montserrat;
+  font-size: 22px;
+}
+.primary{
+font-family:Montserrat;
+font-size:15px;
+color:grey;
+padding-top:0px;
+}
+.primaries{
+  font-size: 15px;
+  font-family:Montserrat;
+  text-align: left;
+  margin:3px;
+}
+
+.prim{
+  float:right;
+  font-family:Montserrat;
+  font-size: 14px;
+}
+.foot{
+  background-color: black;
+  margin: 10px;
+}
+.foot a{
+  font-family:Montserrat;
+  font-size: 20px;
+}
+.footlist li{
+  display:inline;
+  color: grey;
+  font-family: Montserrat;
+  font-size: 10px;
+}
+}
+.ima{
+  width :10px;
+  height:20px;
+  margin-top: -20px;
+}
+.para{
+  color: grey;
+  font-size: 15px;
+  font-family: Montserrat;
+}
+.listitem li{
+  font-size: 10px;
+  font-style: italic;
+  font-family: Montserrat;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 20px;
+  color: grey;
+  display:inline;
+}
+.listitem a{
+  font-family: Montserrat;
+  color: grey;
+  font-size: 15px;
+  text-decoration: none;
+}

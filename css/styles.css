@@ -1,0 +1,293 @@
+//body
+.main{
+  //background-color:yellow;
+  font-family:Montserrat;
+}
+.wrap{
+  background-color:yellowgreen !important;
+}
+
+
+//headers
+.headers{
+  color: white;
+  font-family:Montserrat;
+  margin:0px;
+}
+
+.bg{
+  background-color: black;
+}
+.headers h1{
+  font-family:Montserrat;
+  color: white;
+}
+
+.headers h5{
+  font-family:Montserrat;
+  margin-top: -25px;
+  color: white;
+}
+
+.logo{
+  width:100px;
+  height:100px;
+  padding-right:45px;
+  margin-left:-15px;
+  margin-bottom: -5px;
+}
+
+.sect{
+  color:black;
+  margin:0px;
+}
+
+//heading & subheading
+#hea{
+  margin-right:10px;
+  margin-top: -18px;
+  font-family: Montserrat;
+}
+
+#hea1{
+  margin-left:20px;
+  font-family: Montserrat;
+}
+
+//navigation elements
+.bar li{
+  display:inline;
+  float: right;
+  font-family:Montserrat;
+  padding: 1px;
+  padding-right: 4px;
+}
+//navigation links
+.bar a{
+  text-decoration:none;
+  font-family:Montserrat;
+  font-size: 15px;
+}
+li{
+  display:inline;
+  float: right;
+  font-family:Montserrat;
+  padding: 1px;
+  padding-right: 4px;
+}
+a{
+  text-decoration:none;
+  font-family:Montserrat;
+  font-size: 15px;
+}
+//Hero elements
+.FrontPage h2{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.FrontPage{
+  background-image: url(../images/frontpage.jpg);
+  background-repeat: no-repeat;
+  background-size:960px;
+  height: 500px;
+  position: relative;
+}
+
+#head1{
+  margin-top: 150px;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight:600;
+}
+#head2{
+  margin-top: 20px;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight:600;
+}
+
+//3 column elements
+
+.Paragraph_Statistics{
+  margin: 50px;
+}
+.part1 p, .part2 p, .part3 p{
+  font-family: Montserrat;
+  font-size: 15px;
+
+}
+
+.part1,.part2, .part3{
+  background-color: yellowgreen;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.back{
+ background-color: yellowgreen;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.Image{
+  height: 200px;
+}
+
+.Imagess{
+  float:right;
+  height:200px;
+}
+.adjust{
+  padding-bottom: 10px;
+  padding-top:30px;
+  padding-right: 20px;
+  width:200px;
+  height:150px;
+}
+
+.par{
+  padding-left:5px;
+  margin-top:-5px;
+  text-align: left;
+}
+.sty{
+  font-family: Montserrat;
+  font-style: italic;
+  font-size: 12px;
+  text-align: left;
+}
+.Imag img{
+  width:250px;
+  height:200px;
+  margin:3px;
+}
+.prims{
+  font-family:Montserrat;
+  font-size: 22px;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+.primary{
+font-family:Montserrat;
+font-size:15px;
+color:grey;
+padding-top:0px;
+}
+.primaries{
+  font-size: 15px;
+  font-family:Montserrat;
+  text-align: left;
+  margin:3px;
+}
+
+.prim{
+  float:right;
+  font-family:Montserrat;
+  font-size: 14px;
+}
+
+
+//Footer
+.prims{
+  font-family:Montserrat;
+  font-size: 22px;
+}
+.primary{
+font-family:Montserrat;
+font-size:15px;
+color:grey;
+padding-top:0px;
+}
+.primaries{
+  font-size: 15px;
+  font-family:Montserrat;
+  text-align: left;
+  margin:3px;
+}
+
+.prim{
+  float:right;
+  font-family:Montserrat;
+  font-size: 14px;
+}
+.ima{
+  width :10px;
+  height:20px;
+  margin-top:-20px;
+  padding-top:20px;
+}
+
+.para{
+  color: grey;
+  font-size: 15px;
+  font-family: Montserrat;
+}
+
+.foot{
+  background-color: black;
+  margin: 10px;
+  margin-left: 185px;
+}
+.foot a{
+  font-family:Montserrat;
+  font-size: 20px;
+}
+.footlist li{
+  display:inline;
+  color: grey;
+  font-family: Montserrat;
+  font-size: 10px;
+}
+
+.lin{
+  text-decoration: underline;
+  color: white;
+  font-size: 5px;
+}
+.listitems li{
+  font-size: 12px;
+  font-style: italic;
+  font-family: Montserrat;
+  padding-bottom:40px;
+  padding-left:15px;
+  padding-right: 70px;
+  color: white;
+  //padding-top: -60px;
+  //display:inline;
+  text-align: right;
+  margin-top:-36px;
+  padding-top:6px;
+}
+
+#l{
+  padding-left: 3px;
+}
+
+.listitems a{
+  font-family: Montserrat;
+  color: white;
+  font-size: 15px;
+//  padding-left: -10px;
+//  padding-bottom: -50px;
+  text-decoration: none;
+}
+
+.listitem li{
+  font-size: 10px;
+  font-style: italic;
+  font-family: Montserrat;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 20px;
+  color: grey;
+  display:inline;
+  text-align: left;
+}
+.listitem a{
+  font-family: Montserrat;
+  color: grey;
+  font-size: 15px;
+  text-decoration: none;
+}

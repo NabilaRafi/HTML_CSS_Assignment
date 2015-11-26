@@ -1,4 +1,4 @@
-//body
+/*-------body------------*/
 .main{
   //background-color:yellow;
   font-family:Montserrat;
@@ -8,7 +8,7 @@
 }
 
 
-//headers
+/*-------headers------------*/
 .headers{
   color: white;
   font-family:Montserrat;
@@ -42,7 +42,7 @@
   margin:0px;
 }
 
-//heading & subheading
+/*------------heading & subheading------------*/
 #hea{
   margin-right:10px;
   margin-top: -18px;
@@ -54,7 +54,7 @@
   font-family: Montserrat;
 }
 
-//navigation elements
+/*------------navigation elements------------*/
 .bar li{
   display:inline;
   float: right;
@@ -62,7 +62,7 @@
   padding: 1px;
   padding-right: 4px;
 }
-//navigation links
+/*------------navigation links------------*/
 .bar a{
   text-decoration:none;
   font-family:Montserrat;
@@ -80,7 +80,7 @@ a{
   font-family:Montserrat;
   font-size: 15px;
 }
-//Hero elements
+/*------------Hero elements------------*/
 .FrontPage h2{
   text-align: center;
   margin-top: 20px;
@@ -107,7 +107,7 @@ a{
   font-weight:600;
 }
 
-//3 column elements
+/*-----------3 column elements------------*/
 
 .Paragraph_Statistics{
   margin: 50px;
@@ -162,6 +162,7 @@ a{
   width:250px;
   height:200px;
   margin:3px;
+  border-style: groove;
 }
 .prims{
   font-family:Montserrat;
@@ -189,7 +190,7 @@ padding-top:0px;
 }
 
 
-//Footer
+/*----------Footer------------*/
 .prims{
   font-family:Montserrat;
   font-size: 22px;
